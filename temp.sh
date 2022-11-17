@@ -7,4 +7,5 @@ then
 else
 	echo "Entered number is an Odd number"
 fi
-echo "Commiting for branch1"
+echo "Commitingto branch2"
+
