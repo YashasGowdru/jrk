@@ -8,4 +8,3 @@ else
 	echo "Entered number is an Odd number"
 fi
 echo "Commitingto branch2"
-

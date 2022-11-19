@@ -1,0 +1,1001 @@
+  341  clear
+  342  ls
+  343  vi script3.sh 
+  344  sh script3.sh 
+  345  clear
+  346  ls
+  347  vi script4.sh 
+  348  sh script4.sh 
+  349  vi script4.sh 
+  350  sh script4.sh 
+  351  sudo apt-get update && sudo apt-get upgrade
+  352  sudo apt-get install postfix
+  353  qodjkozoaqdmyqll
+  354  [smtp.gmail.com]:587 microdomainz@gmail.com:qodjkozoaqdmyqll
+  355  clear
+  356  sudo apt-get install mailutils
+  357  ls
+  358  clear
+  359  ls
+  360  vi diskcheck.sh 
+  361  vi servicecheck.sh 
+  362  ls -l
+  363  cd switch_case/
+  364  ls
+  365  clear
+  366  cat script1.sh 
+  367  cat script2.sh 
+  368  cat script3.sh 
+  369  cat script4.sh 
+  370  clear
+  371  vi script4.sh 
+  372  sh script4.sh 
+  373  vi script4.sh 
+  374  df -h .
+  375  vi script4.sh 
+  376  sh script4.sh 
+  377  vi script4.sh 
+  378  sh script4.sh 
+  379  clear
+  380  ls
+  381  grep -i "line" *
+  382  cd whiling/
+  383  clear
+  384  ls
+  385  grep -i "line" *
+  386  vi while2.sh 
+  387  sh while2.sh 
+  388  vi while8.sh 
+  389  cat while2.sh 
+  390  cat while8.sh 
+  391  sh while8.sh 
+  392  vi while8.sh 
+  393  cat data1 
+  394  clear
+  395  ls
+  396  mkdir old
+  397  mv * old
+  398  rm -rf old/
+  399  mv * old1
+  400  mv *.sh old1
+  401  mkdir old1
+  402  mv *.sh old1
+  403  mv s* old1
+  404  mv -R s* old1
+  405  ls
+  406  clear
+  407  ls
+  408  ls old1/
+  409  ls
+  410  ls -a
+  411  clear
+  412  ls
+  413  cd old1/
+  414  ls
+  415  clear
+  416  free
+  417  df -h
+  418  df -h .
+  419  clear
+  420  cd ..
+  421  ls
+  422  rm -rf *
+  423  clear
+  424  mkdir whiling
+  425  mkdir for_1
+  426  mkdir iff1
+  427  mkdir case
+  428  clear
+  429  ls
+  430  cd iff1/
+  431  clear
+  432  vi script1.sh
+  433  sh script1.sh
+  434  clear
+  435  touch data1
+  436  vi data1 
+  437  ln -s data1 soft
+  438  ln data1 hard
+  439  ls
+  440  vi script2.sh 
+  441  sh script2.sh 
+  442  vi script2.sh 
+  443  sh script2.sh 
+  444  ls -l
+  445  mkdir chech
+  446  sh script2.sh 
+  447  clear
+  448  sh script2.sh 
+  449  clear
+  450  vi script3.sh
+  451  sh script3.sh
+  452  clear
+  453  cd ..
+  454  ls
+  455  cp iff1/data1 whiling/
+  456  ls whiling/
+  457  cp iff1/data1 case
+  458  cp iff1/data1 for_1/
+  459  clear
+  460  cd whiling/
+  461  clear
+  462  ls
+  463  clear
+  464  vi script_1.sh
+  465  sh script_1.sh
+  466  ls
+  467  cat out1
+  468  vi script_1.sh
+  469  sh script_1.sh
+  470  vi script_1.sh
+  471  sh script_1.sh
+  472  ls
+  473  vi script_1.sh
+  474  sh script_1.sh
+  475  cat out1
+  476  vi script_1.sh
+  477  sh script_1.sh
+  478  clear
+  479  uptime
+  480  clear
+  481  sudo su -
+  482  uptime
+  483  ls
+  484  clear
+  485  git --version
+  486  mkdir myrepo
+  487  cd myrepo/
+  488  git config --global user.name "Yashas"
+  489  git config –global user.email "yashasjgowda@gmail.com"
+  490  git config --global user.email "yashasjgowda@gmail.com"
+  491  git config --global Yashas.email "yashasjgowda@gmail.com"
+  492  ls
+  493  git config --global Yashas.email "yashasjgowda@gmail.com"
+  494  git config --global user.email "yashasjgowda@gmail.com"
+  495  git status 
+  496  sudo su -
+  497  clear
+  498  ls
+  499  mkdir Yash_repository
+  500  ls
+  501  cd Yash_repository/
+  502  clear
+  503  ls
+  504  ls -a
+  505  git init
+  506  ls -a
+  507  git config --global user.name "Yashas"
+  508  git config --global user.email "yashasjgowda@gmail.com"
+  509  ls
+  510  git config --global user.name "Yashas1"
+  511  git config --global user.email "yashasjmce@gmail.com"
+  512  cd ..
+  513  cd myrepo/
+  514  git init
+  515  git config --global user.name "Yashas"
+  516  git config --global user.email "yashasjmce@gmail.com"
+  517  clear
+  518  ps -ef
+  519  uptime
+  520  top
+  521  clear
+  522  cd ..
+  523  cd Yash_repository/
+  524  clear
+  525  touch file_if
+  526  vi file_if 
+  527  git status
+  528  vi file_if 
+  529  cd repo_git/
+  530  clear
+  531  git push -u origin master
+  532  git remote add origin https://github.com/YashasGowdru/repo_git.git
+  533  git push -u origin master
+  534  ls
+  535  clear
+  536  cd ..
+  537  ssh-keygen
+  538  cd .ssh
+  539  ls
+  540  vi id_rsa.pub 
+  541  ssh ubuntu@172.31.33.32
+  542  hostname
+  543  hostname -i
+  544  clear
+  545  cd ..
+  546  sudo su -
+  547  passwd ubuntu 
+  548  sudo su -
+  549  clear
+  550  cd repo_git/
+  551  git push -u origin master
+  552  clear
+  553  ls
+  554  cd repo_git/
+  555  ls
+  556  git status
+  557  git branch
+  558  vi read_each_line.sh
+  559  sh read_each_line.sh
+  560  clear
+  561  git status 
+  562  git log
+  563  clear
+  564  git add read_each_line.sh 
+  565  git status
+  566  git add read_each_line.sh 
+  567  git status
+  568  git commit -m "Commiting read each line script"
+  569  git log
+  570  clear
+  571  git log
+  572  git show 31dc2ffa0de8f4320b0846c1a5a26f22ad96561e
+  573  cat read_each_line.sh 
+  574  git add .
+  575  git push -u origin master
+  576  git tag mytag1
+  577  clear
+  578  ls
+  579  git status
+  580  cd repo_git/
+  581  clear
+  582  git log
+  583  clear
+  584  git status
+  585  git add .
+  586  git status
+  587  git commit -m "Commiting 2 files outfile and pattern_finding"
+  588  git status
+  589  git push -u origin master
+  590  git log
+  591  clear
+  592  git push -u origin master
+  593  git status
+  594  clear
+  595  git status
+  596  git branch
+  597  git branch checkout
+  598  git branch
+  599  git git checkout master
+  600  git branch
+  601  git checkout master
+  602  git branch
+  603  git status
+  604  git push -u origin master
+  605  ls
+  606  cd ..
+  607  mkdir old_repo
+  608  mv repo_git/* old_repo/
+  609  ls old_repo/
+  610  ls repo_git/
+  611  cd repo_git/
+  612  git log
+  613  ls -a
+  614  rm -rf .git/
+  615  git log
+  616  git init
+  617  clear
+  618  git clone https://github.com/YashasGowdru/repo_git.git
+  619  ls
+  620  ls repo_git/
+  621  git clone https://github.com/jnanaswaroop/mynewrepo.git
+  622  ls
+  623  ls mynewrepo/
+  624  clear
+  625  cd mynewrepo/
+  626  ls
+  627  ls -a
+  628  cd ..
+  629  cd repo_git/
+  630  ls
+  631  ls -a
+  632  clear
+  633  cd ..
+  634  cd repo_git/
+  635  ls
+  636  vi file_if 
+  637  git status
+  638  git add file_if 
+  639  git status
+  640  git commit -m "Commiting file_if 1.0"
+  641  git log
+  642  git show 29f4315c3898624f7a26c9f216aace13914065b6
+  643  git status
+  644  git push -u origin master
+  645  clear
+  646  ls
+  647  clear
+  648  git tag 
+  649  git tag mytagV1
+  650  git tag
+  651  git log
+  652  git checkout
+  653  git checkout 31dc2ffa0de8f4320b0846c1a5a26f22ad96561e
+  654  git log 
+  655  git tag
+  656  git show mytagV1 
+  657  git log
+  658  git checkout master
+  659  git branch 
+  660  git tag
+  661  git show mytagV1 
+  662  git checkout 29f4315c3898624f7a26c9f216aace13914065b6
+  663  git log
+  664  git checkout 31dc2ffa0de8f4320b0846c1a5a26f22ad96561e
+  665  git log
+  666  git tag oldtag1
+  667  git log
+  668  git checkout mytagV1 
+  669  git log
+  670  git checkout oldtag1 
+  671  git log 
+  672  git tag
+  673  git tag mytagV1
+  674  git checkout mytagV1 
+  675  git log
+  676  git push --tags
+  677  git status
+  678  clear
+  679  cd ..
+  680  ls
+  681  cd mynewrepo/
+  682  ls
+  683  cd ..
+  684  cp mynewrepo/display_setofvalues.sh repo_git/
+  685  cd ..
+  686  cd repo_git/
+  687  clear
+  688  ls
+  689  cd repo_git/
+  690  ls
+  691  cat display_setofvalues.sh 
+  692  vi display_setofvalues.sh 
+  693  git status
+  694  git add display_setofvalues.sh 
+  695  git status
+  696  git commit -m "Commiting for tag1"
+  697  git status
+  698  git log
+  699  git checkout master
+  700  git log
+  701  clear
+  702  git branch 
+  703  git tag
+  704  git tag mytagV2
+  705  git log
+  706  git tag
+  707  git checkout mytagV2
+  708  git log
+  709  git checkout master
+  710  git log
+  711  git status
+  712  git push --tags
+  713  clear
+  714  ls
+  715  git show
+  716  git open .git
+  717  clear
+  718  git branch 
+  719  git branch yashas
+  720  git branch 
+  721  git branch shreyas
+  722  git branch 
+  723  git checkout yashas
+  724  ls
+  725  vi for_yashas
+  726  git status
+  727  git add .
+  728  git status
+  729  git commit -m "Yashas editted for_yashas"
+  730  git status
+  731  git push -u origin yashas
+  732  git checkout shreyas 
+  733  ls
+  734  git checkout yashas 
+  735  ls
+  736  git checkout master 
+  737  ls
+  738  clear
+  739  git branch 
+  740  git merge yashas
+  741  ls
+  742  git checkout shreyas 
+  743  ls
+  744  git git merge y
+  745  git branch 
+  746  git merge yashas
+  747  git branch 
+  748  ls
+  749  git checkout master 
+  750  ls
+  751  git branch 
+  752  history
+  753  history > hist_bck
+  754  cat hist_bck 
+  755  clear
+  756  cd repo_git/
+  757  ls
+  758  git status
+  759  clear
+  760  touch file1 file2
+  761  ls
+  762  git init
+  763  clear
+  764  ls
+  765  clear
+  766  git tags
+  767  git tag
+  768  clear
+  769  git ststus
+  770  git status
+  771  clear
+  772  touch file3
+  773  ls
+  774  clear
+  775  ls
+  776  clear
+  777  git tag
+  778  git tag release1.0
+  779  git log
+  780  clear
+  781  rm -rf file1
+  782  rm -rf file2
+  783  git status 
+  784  clear
+  785  git add .
+  786  git status 
+  787  git commit -m "Commiting realese version1.0"
+  788  git status 
+  789  clear
+  790  git log
+  791  git tag release1.0
+  792  git show e23b79c0c97945672d3cfb0d468910e2b9cd7b52
+  793  clear
+  794  git log
+  795  git push --tag
+  796  history
+  797  clear
+  798  ls
+  799  tree
+  800  cd repo_git/
+  801  clear
+  802  ls
+  803  git status
+  804  cat hist_bck 
+  805  clear
+  806  mv hist_bck ../
+  807  cd ..
+  808  ls
+  809  cd repo_git/
+  810  ls
+  811  clear
+  812  git status
+  813  touch file1 file2 file3
+  814  ls
+  815  clear
+  816  git status
+  817  git add .
+  818  git status
+  819  git commit -m "Commiting for releaseV1.0"
+  820  git status
+  821  cd repo_git/
+  822  ls
+  823  git status
+  824  clear
+  825  git tag
+  826  git tag release1.0
+  827  git tag
+  828  clear
+  829  git log
+  830  clear
+  831  git push --tags
+  832  git status
+  833  git branch
+  834  clear
+  835  ls
+  836  cat file1
+  837  vi file1
+  838  vi file2
+  839  vi file3
+  840  clear
+  841  git status 
+  842  git add .
+  843  git status 
+  844  git commit -m "Commiting 2nd time as releaseV1.2"
+  845  git log
+  846  git status 
+  847  git tag release1.1
+  848  git tag
+  849  git status 
+  850  git push --tags
+  851  git status
+  852  git show release1.0
+  853  git show release1.1
+  854  cat file3
+  855  clear
+  856  ls
+  857  uptime
+  858  free
+  859  clear
+  860  uptime
+  861  clear
+  862  df -h .
+  863  ls
+  864  cd cd repo_git/
+  865  cd repo_git/
+  866  ls
+  867  cd mynewrepo/
+  868  ls
+  869  cat file_seperate_percentage.sh 
+  870  clear
+  871  crontab =e
+  872  crontab -e
+  873  sudo apt install crontab 
+  874  cd repo_git/
+  875  ls
+  876  clear
+  877  git status
+  878  git add .
+  879  git status 
+  880  git git commit -m "Final commit"
+  881  git branch 
+  882  git push origin master
+  883  git push -u origin master
+  884  git status
+  885  git log
+  886  git status
+  887  git commit -m "Commiting for test"
+  888  git push -u origin master
+  889  git status
+  890  git push -u origin master
+  891  git tag
+  892  git tag newtag1
+  893  git tag
+  894  git status 
+  895  git push --tags
+  896  pwd
+  897  clear
+  898  ls
+  899  cd repo_git/
+  900  ls
+  901  cd repo_git/
+  902  ls
+  903  clear
+  904  cd ..
+  905  cd mynewrepo/
+  906  ls
+  907  git status
+  908  git init
+  909  git status
+  910  clear
+  911  git add .
+  912  git status
+  913  git log
+  914  ls
+  915  cd ..
+  916  clear
+  917  mkdir jrk
+  918  cp mynewrepo/* jrk/
+  919  cp -r mynewrepo/* jrk/
+  920  ls jrk/
+  921  cd jrk/
+  922  clear
+  923  git init
+  924  git status
+  925  git add .
+  926  git status
+  927  clear
+  928  git commit -m "Commiting all files of JKR 1st time"
+  929  clear
+  930  git status
+  931  git log
+  932  git branch
+  933  git tag
+  934  clear
+  935  git push origin master
+  936  git remote add origin https://github.com/YashasGowdru/jrk.git
+  937  git push origin master
+  938  clear
+  939  ls
+  940  clear
+  941  git branch -b br1
+  942  git branch -b br2
+  943  clear
+  944  git branch 
+  945  git branch branch1
+  946  git branch branch2
+  947  git branch
+  948  ls
+  949  vi temp.sh 
+  950  git status
+  951  git checkout branch1
+  952  git status 
+  953  git add .
+  954  git status 
+  955  git commit -m "Commiting for branch1"
+  956  git push origin branch1
+  957  clear
+  958  git checkout branch2
+  959  vi temp.sh 
+  960  git status
+  961  git add .
+  962  git commit -m "Commiting for branch2"
+  963  git status
+  964  git push origin branch2
+  965  clear
+  966  git checkout master
+  967  vi temp.sh 
+  968  git add .
+  969  git status 
+  970  git commit -m "Commiting from master"
+  971  git push origin master
+  972  git status
+  973  git branch
+  974  git merge branch1
+  975  git branch
+  976  vi temp.sh 
+  977  clear
+  978  git branch 
+  979  git merge branch2
+  980  git push origin master
+  981  git status
+  982  git add .
+  983  git commit -m "Commiting 2nd time from master"
+  984  git push origin master
+  985  clear
+  986  cd repo_git/
+  987  cd jrk/
+  988  clear
+  989  git clone https://github.com/Yetish519/myrepo.git
+  990  ls
+  991  ls myrepo/
+  992  cd myrepo/
+  993  clear
+  994  ls
+  995  vi ss10.sh 
+  996  git status
+  997  git branch
+  998  git branch Byashas
+  999  git branch
+ 1000  git checkout Byashas 
+ 1001  git branch
+ 1002  git add .
+ 1003  git commit -m "Commiting Yashas"
+ 1004  git push origin Byashas 
+ 1005  cd ..
+ 1006  ls
+ 1007  git checkout master
+ 1008  clear
+ 1009  ls
+ 1010  cat patternfinding.sh 
+ 1011  clear
+ 1012  vi patternfinding.sh 
+ 1013  cat patternfinding.sh 
+ 1014  clear
+ 1015  git branch 
+ 1016  git status
+ 1017  git add .
+ 1018  ls -l patternfinding.sh 
+ 1019  chmod 777 patternfinding.sh 
+ 1020  git add .
+ 1021  cler
+ 1022  clear
+ 1023  git status
+ 1024  git commit -m "Yashas master commiting"
+ 1025  git push origin master 
+ 1026  clear
+ 1027  git clone https://github.com/Ebenneil/Gitpract.git
+ 1028  clear
+ 1029  ls
+ 1030  cd myrepo/
+ 1031  ls
+ 1032  cd ..
+ 1033  cd repo_git/
+ 1034  ls
+ 1035  cd ..
+ 1036  cd repo_git/
+ 1037  clear
+ 1038  cd mynewrepo/
+ 1039  ls
+ 1040  clear
+ 1041  gir clone https://github.com/Ebenneil/Gitpract.git
+ 1042  git clone https://github.com/Ebenneil/Gitpract.git
+ 1043  clear
+ 1044  ls
+ 1045  clear
+ 1046  git clone https://github.com/Ebenneil/Gitpract.git
+ 1047  clear
+ 1048  ls
+ 1049  clear
+ 1050  cd ..
+ 1051  ls
+ 1052  cd jrk/
+ 1053  git clone https://github.com/Ebenneil/Gitpract.git
+ 1054  ls
+ 1055  git log
+ 1056  clear
+ 1057  ls
+ 1058  clear
+ 1059  git version
+ 1060  clear
+ 1061  mkdir new_git
+ 1062  ls
+ 1063  cd new_git/
+ 1064  ls
+ 1065  clear
+ 1066  ls
+ 1067  ls -a
+ 1068  git init
+ 1069  clear
+ 1070  ls -a
+ 1071  cd ..
+ 1072  ls
+ 1073  cp for_1/* new_git/
+ 1074  cd new_git/
+ 1075  ls
+ 1076  ls -a
+ 1077  clear
+ 1078  ls
+ 1079  cd ..
+ 1080  ls
+ 1081  ls whiling/
+ 1082  cp whiling/* new_git/
+ 1083  cd new_git/
+ 1084  ls
+ 1085  clear
+ 1086  ls
+ 1087  ls -a
+ 1088  clear
+ 1089  vi addi.sh
+ 1090  sh addi.sh
+ 1091  clear
+ 1092  git status
+ 1093  git add .
+ 1094  git status
+ 1095  git commit -m "comitin learning"
+ 1096  clear
+ 1097  git config --global user.name "YashasGowdru"
+ 1098  git config --global user.email "yashasjgowda@gmail.com"
+ 1099  git status 
+ 1100  clear
+ 1101  ls
+ 1102  cd repo_git/
+ 1103  ls
+ 1104  cd jrk/\
+ 1105  cd jrk
+ 1106  clea
+ 1107  clear
+ 1108  ls
+ 1109  cd ..
+ 1110  ls
+ 1111  cd ..
+ 1112  ls
+ 1113  ls whiling/
+ 1114  ls iff1/
+ 1115  cp iff1/sc* repo_git/jrk/
+ 1116  cd repo_git/
+ 1117  cd jrk/
+ 1118  ls
+ 1119  clear
+ 1120  ls
+ 1121  clear
+ 1122  git branch 
+ 1123  git branch -d branch1
+ 1124  git branch 
+ 1125  git branch -d branch2
+ 1126  git branch 
+ 1127  git branch -D branch2
+ 1128  git checkout master 
+ 1129  clear
+ 1130  git branch 
+ 1131  git branch -D Bran1 
+ 1132  clear
+ 1133  git branch -D Bran1 
+ 1134  clear
+ 1135  git branch 
+ 1136  clear
+ 1137  git br1
+ 1138  git branch br1
+ 1139  clear
+ 1140  git branch 
+ 1141  git status 
+ 1142  cd ..
+ 1143  cd jrk/
+ 1144  mv script2.sh ..
+ 1145  git status 
+ 1146  mv script3.sh ..
+ 1147  CD ..
+ 1148  cd ..\
+ 1149  cd ..
+ 1150  cd repo_git/
+ 1151  ls
+ 1152  clear
+ 1153  ls
+ 1154  clear
+ 1155  cd jrk/
+ 1156  ls
+ 1157  clear
+ 1158  git branch 
+ 1159  git status
+ 1160  git add .
+ 1161  git log
+ 1162  clear
+ 1163  git status 
+ 1164  git commit -m "commit br1"
+ 1165  git log
+ 1166  clear
+ 1167  mv ../script2.sh .
+ 1168  ls
+ 1169  cd ..
+ 1170  ls
+ 1171  clear
+ 1172  git log
+ 1173  clear
+ 1174  cd jrk/
+ 1175  git status 
+ 1176  git branch 
+ 1177  git branch -b br2
+ 1178  clear
+ 1179  git branch 
+ 1180  git status 
+ 1181  git branch br2
+ 1182  git add .
+ 1183  git status 
+ 1184  git branch 
+ 1185  git reset --mixed
+ 1186  git status
+ 1187  git checkout br2
+ 1188  git branch 
+ 1189  git add .
+ 1190  git status 
+ 1191  git commit -m "commiting for br2"
+ 1192  git log
+ 1193  clear
+ 1194  mv ../script3.sh .
+ 1195  git status 
+ 1196  git branch br3
+ 1197  git checkout br3
+ 1198  git status 
+ 1199  git add .
+ 1200  git commit -m "commiting to br3"
+ 1201  clear
+ 1202  git log
+ 1203  git rebase -i HEAD`3
+
+ 1204  git rebase -i HEAD~3
+ 1205  git log
+ 1206  git status
+ 1207  clear
+ 1208  ls
+ 1209  clear
+ 1210  git branch
+ 1211  git checkout br1
+ 1212  clear
+ 1213  ls
+ 1214  cd ..
+ 1215  ls
+ 1216  cd jrk/
+ 1217  clear
+ 1218  ls
+ 1219  cd ..
+ 1220  clear
+ 1221  find . -type f -mmin -30
+ 1222  find . -type f -mmin -60
+ 1223  clear
+ 1224  git log
+ 1225  cd jrk/
+ 1226  clear
+ 1227  git log
+ 1228  clear
+ 1229  ls
+ 1230  cd ..
+ 1231  ls
+ 1232  cd ..\
+ 1233  clear
+ 1234  cd j
+ 1235  clear
+ 1236  cd repo_git/
+ 1237  cd jrk/
+ 1238  clear
+ 1239  ls
+ 1240  cd shellscripts/
+ 1241  ls
+ 1242  cd ..
+ 1243  cd Gitpract/
+ 1244  ls
+ 1245  cd myrepo/
+ 1246  ls
+ 1247  cd ..
+ 1248  clear
+ 1249  git branch 
+ 1250  clear
+ 1251  cd ..
+ 1252  ls
+ 1253  ls iff1/
+ 1254  cp sc* repo_git/jrk/
+ 1255  cp s* repo_git/jrk/
+ 1256  ls
+ 1257  clear
+ 1258  cp iff1/script* repo_git/jrk/
+ 1259  cd repo_git/
+ 1260  cd jrk/
+ 1261  ls
+ 1262  clear
+ 1263  git status
+ 1264  clear
+ 1265  git add .
+ 1266  git commit -m "all"
+ 1267  clear
+ 1268  git status 
+ 1269  clear
+ 1270  vi script1.sh 
+ 1271  clear
+ 1272  git status
+ 1273  git branch 
+ 1274  git add .
+ 1275  git commit -m "commiting br1"
+ 1276  clear
+ 1277  git checkout br2
+ 1278  clear
+ 1279  vi script2.sh 
+ 1280  clear
+ 1281  git status
+ 1282  git add .
+ 1283  git commit -m "commiting for br2"
+ 1284  clear
+ 1285  vi script3
+ 1286  ls
+ 1287  clear\
+ 1288  git status 
+ 1289  clear
+ 1290  git rebase -i HEAD~2
+ 1291  clear
+ 1292  git branch 
+ 1293  git log
+ 1294  clear
+ 1295  git status
+ 1296  clear
+ 1297  git reset --soft
+ 1298  git status
+ 1299  clear
+ 1300  vi script1.sh 
+ 1301  git status
+ 1302  git add .
+ 1303  git status 
+ 1304  git reset --mixed
+ 1305  git status 
+ 1306  clear
+ 1307  git add .
+ 1308  git commit -m "commiting"
+ 1309  git reset --soft
+ 1310  git status
+ 1311  ls
+ 1312  clear
+ 1313  git branch 
+ 1314  vi script1.sh 
+ 1315  git status
+ 1316  clear
+ 1317  vi script2.sh 
+ 1318  git branch
+ 1319  git status
+ 1320  vi script2.sh 
+ 1321  git status 
+ 1322  git add .
+ 1323  git stash 
+ 1324  git status
+ 1325  git checkout br1
+ 1326  vi script1.sh 
+ 1327  git status
+ 1328  git add .
+ 1329  git status
+ 1330  git commit -m "commiting stash"
+ 1331  git stash pop
+ 1332  git status 
+ 1333  git status
+ 1334  git branch
+ 1335  git merge br2
+ 1336  clear
+ 1337  git log
+ 1338  clear
+ 1339  history 
+ 1340  history > hist_bckp
