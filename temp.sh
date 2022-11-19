@@ -7,4 +7,4 @@ then
 else
 	echo "Entered number is an Odd number"
 fi
-echo "This is in master"
+echo "Commitingto branch2"
