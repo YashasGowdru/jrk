@@ -11,3 +11,4 @@ else
 fi
 echo "Jenkins"
 echo "Webhook commit"
+echo Hi
