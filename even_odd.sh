@@ -1,6 +1,6 @@
 #! /bin/bash
 echo "Enter the number you want to check for odd / even"
-read num
+num=10
 rem=`expr $num % 2`
 
 if [ $rem -eq 0 ]
@@ -9,3 +9,4 @@ then
 else
 	echo "It's an Odd Number"
 fi
+echo "Jenkins"
