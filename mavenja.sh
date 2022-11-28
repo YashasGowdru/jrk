@@ -18,3 +18,4 @@ sudo cp conf-and-webapps-file/contexthm.xml /opt/tomcat/webapps/host-manager/MET
 sudo sh /opt/tomcat/bin/startup.sh
 sudo rm -rf conf-and-webapps-file
 sudo rm -rf apache-tomcat-10.0.27
+echo "Mavenjob"
