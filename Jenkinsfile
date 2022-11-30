@@ -4,7 +4,7 @@ pipeline {
            stage ("tomcat build & move to other node") {
 	      agent {label "build_slave1"}
               steps {
-                      sh 'sudo mvn package'
+                      sh 'mvn package'
 		      sh 'ls'
                       sh 'pwd'
 		      sh 'scp -R target/hello-world-war-1.0.0.war jenkinsla@172.31.45.23:/opt/tomcat/webapps'
